@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/NewsNow/static/css/main.e55e539a.css",
+    "main.js": "/NewsNow/static/js/main.7cd0e2b0.js",
+    "index.html": "/NewsNow/index.html",
+    "main.e55e539a.css.map": "/NewsNow/static/css/main.e55e539a.css.map",
+    "main.7cd0e2b0.js.map": "/NewsNow/static/js/main.7cd0e2b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e55e539a.css",
+    "static/js/main.7cd0e2b0.js"
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/DailyNotes/static/css/main.e55e539a.css",
-    "main.js": "/DailyNotes/static/js/main.64a5b6fa.js",
+    "main.js": "/DailyNotes/static/js/main.7cd0e2b0.js",
     "index.html": "/DailyNotes/index.html",
     "main.e55e539a.css.map": "/DailyNotes/static/css/main.e55e539a.css.map",
-    "main.64a5b6fa.js.map": "/DailyNotes/static/js/main.64a5b6fa.js.map"
+    "main.7cd0e2b0.js.map": "/DailyNotes/static/js/main.7cd0e2b0.js.map"
   },
   "entrypoints": [
     "static/css/main.e55e539a.css",
-    "static/js/main.64a5b6fa.js"
+    "static/js/main.7cd0e2b0.js"
   ]
 }
